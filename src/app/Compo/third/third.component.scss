@@ -1,0 +1,22 @@
+.header {
+    height: 32px;
+    padding: 20px 50px;
+    background-color: whitesmoke;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px #939393;
+}
+
+.one{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.two{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.oone{
+    display: flex;
+}

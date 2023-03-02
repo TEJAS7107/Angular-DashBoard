@@ -1,0 +1,15 @@
+.con{
+    text-align: center;
+}
+.one{
+    display: inline-block;
+    width: 50%;
+    height: 200px;
+    background-color: #ccc;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }

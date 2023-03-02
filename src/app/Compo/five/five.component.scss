@@ -1,0 +1,26 @@
+.header {
+    height: 230px;
+    width: 100%;
+    background-color: whitesmoke;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px #939393;
+    position: fixed;
+    text-align: center; /* Optional - to center the boxes horizontally */
+}
+
+
+
+
+.chartt{
+    height: 230px;
+    width :auto;
+
+    display: flex;
+    margin-left: 150px;
+   
+}
+.s2{
+    padding-right: 0;
+}
